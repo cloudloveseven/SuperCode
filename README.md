@@ -1,1 +1,1 @@
-# 基于Tensorflow的训练模型
+# Tensorflow的手写数字识别模型
